@@ -10,4 +10,4 @@ LinkedIn: https://www.linkedin.com/in/dishant-182b651a5/ <br> My Portfolio: http
 - 😄 Pronouns: He/Him
 - ⚡ Fact: P( learning | Life ) = 1
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dishant2001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=Dishant2001&&show_icons=true&title_color=884dff&icon_color=ffff00&text_color=ddccff&bg_color=151515">
