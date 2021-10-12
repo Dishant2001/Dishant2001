@@ -41,8 +41,8 @@
 <br>
 
 <h3>📫 How to reach me</h3> 
-<a href="https://www.linkedin.com/in/dishant-182b651a5/"><img src="https://img.icons8.com/color/64/000000/linkedin.png"/></a>
-<a href="https://dishant2001.github.io/Portfolio/"><img src="https://img.icons8.com/color/64/000000/domain--v1.png"/></a>
+<a href="https://www.linkedin.com/in/dishant-182b651a5/" target="_blank_"><img src="https://img.icons8.com/color/64/000000/linkedin.png"/></a>
+<a href="https://dishant2001.github.io/Portfolio/" target="_blank_"><img src="https://img.icons8.com/color/64/000000/domain--v1.png"/></a>
 
 
 <br>
