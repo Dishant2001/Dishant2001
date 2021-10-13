@@ -35,7 +35,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Dishant2001&&show_icons=true&theme=vision-friendly-dark">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishant2001&layout=compact&theme=dark&langs_count=10&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishant2001&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <strong>Note</strong>: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br>
