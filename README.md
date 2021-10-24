@@ -12,9 +12,11 @@
 <h3>🛠 My Skills</h3>
 <div style="display:inline;">
   <img src="https://img.icons8.com/dusk/64/000000/python.png"/>
+  <img src="https://img.icons8.com/color/64/000000/java-coffee-cup-logo--v1.png"/>
   <img src="https://img.icons8.com/color/64/000000/c-programming.png"/>
   <img src="https://img.icons8.com/ios-filled/64/000000/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-html-programming-and-coding-flatart-icons-outline-flatarticons.png"/>
+  <img src="https://img.icons8.com/ios/64/000000/html-5--v2.png"/>
+  <img src="https://img.icons8.com/color/64/000000/css3.png"/>
   <img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png"></img>
   <img src="https://cdn.iconscout.com/icon/free/png-64/php-27-226042.png"></img>
   <img src="https://img.icons8.com/color/64/000000/tensorflow.png"></img>
@@ -23,8 +25,10 @@
   <img src="https://img.icons8.com/fluency/64/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/64/000000/postgreesql.png"/>
   <img src="https://img.icons8.com/color/64/000000/git.png"/>
+  <img src="https://img.icons8.com/ios-glyphs/64/000000/github.png"/>
   <img src="https://img.icons8.com/color/64/000000/dart.png"/>
   <img src="https://img.icons8.com/fluency/64/000000/flutter.png"/>
+  <img src="https://img.icons8.com/fluency/64/000000/selenium-test-automation.png"/>
 </div>
 
 <h3>📊 My Stats</h3>
