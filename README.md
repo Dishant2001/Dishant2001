@@ -29,6 +29,8 @@
   <img src="https://img.icons8.com/fluency/64/000000/selenium-test-automation.png"/>
   <img src="https://img.icons8.com/color/64/000000/nodejs.png"/>
   <img src="https://img.icons8.com/color/64/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/color/64/null/amazon-web-services.png"/>
+  <img src="https://img.icons8.com/color/64/null/redis.png"/>
 </div>
 
 <h3>📊 My Stats</h3>
